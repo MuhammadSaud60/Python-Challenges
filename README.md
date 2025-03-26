@@ -1,44 +1,33 @@
-Python Challenges 🚀
-Welcome to the Python Challenges repository! This project contains coding problems and solutions to improve Python skills.
+<h1>Python Challenges 🚀</h1>
+Welcome to the Python Challenges repository! This project contains coding problems and solutions to improve Python skills.<br>
 
-🔹 About This Repo
-Contains Python coding challenges of different difficulty levels.
+<h3>🔹 About This Repo</h3>
+<p>Contains Python coding challenges of different difficulty levels.</p>
 
-Solutions are optimized and well-documented.
+<p>Solutions are optimized and well-documented.</p>
 
-Open for contributions and improvements.
+<p>Open for contributions and improvements.</p>
 
-🔹 Topics Covered
-✔️ Lists
-✔️ Loops
-✔️ Strings
-✔️ Dictionaries
-✔️ Functions
-✔️ File Handling
-✔️ Object-Oriented Programming (OOP)
+<h3>🔹 Topics Covered</h3>
+<li>✔️ Lists</li>
+<li>✔️ Loops</li>
+<li>✔️ Strings</li>
+<li>✔️ Dictionaries</li>
+<li>✔️ Functions</li>
+<li>✔️ File Handling</li>
+<li>✔️ Object-Oriented Programming (OOP)</li>
 
-🔹 How to Use
-Clone the repository:
-
-bash
-Copy
-Edit
+<h3>🔹 How to Use</h3>
+<h4>Clone the repository:</h4>
 git clone https://github.com/MuhammadSaud60/Python-Challenges.git
-Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd Python-Challenges
-Run a challenge file:
-
-bash
-Copy
-Edit
+Navigate to the project directory: <br>
+cd Python-Challenges<br>
+<br>
+Run a challenge file:<br>
 python challenge1.py
-🔹 Contributing
-If you want to contribute:
 
+<h3>🔹 Contributing</h3>
+If you want to contribute:
 Fork this repository.
 
 Add your challenge or improve existing ones.
